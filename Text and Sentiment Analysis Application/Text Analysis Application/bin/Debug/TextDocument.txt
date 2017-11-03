@@ -1,0 +1,17 @@
+Yahoo has created an abuse-detecting algorithm that can accurately identify whether online comments contain hate speech or not. In 90 per cent of test cases Yahoo's algorithm was able to correctly identify that a comment was abusive - a level of accuracy that the study claims outperforms other "state-of-the-art" deep learning approaches.
+
+The company used a combination of machine learning and crowdsourced abuse detection to create an algorithm that trawled the comment sections of Yahoo News and Finance to sniff out abuse. As part of its project, Yahoo is releasing the first publicly available curated database of online hate speech.
+
+Currently, most abusive language detectors work by searching user comments for hateful words or phrases. If a comment contains a particular keyword common in hateful posts then it's flagged as abusive by the algorithm and automatically deleted or forwarded to a moderator to take a look at.
+
+But keyword-based systems - similar to a spam filters - aren't great at catching more subtle types of hate speech. Trolls might deliberately obscure abusive words so they sneak past filters or posts might be hateful without ever containing a particular abusive keyword. Existing algorithms can also mislabel sarcastic comments as abusive, fail to recognise new ways of expressing hate, or ignore a troll's post because it was written in grammatically correct English.
+
+Yahoo went beyond keywords in an attempt to create the most accurate hate-catching algorithm yet. Using a dataset comprised of abusive and non-abusive comments from Yahoo News and Finance articles, the algorithm analysed comment length, number of insult words and punctuation to identify the typical features of an abusive message.
+
+Trained human abuse raters also analysed the same group of comments and rated them as either abusive or not. This helped train the algorithm on posts which were categorically known to be abusive and meant that it benefited from humans' ability to detect implicit abuse.
+
+Yahoo also crowdsourced abuse ratings using Amazon's Mechanical Turk, a website where anyone can sign up to perform tasks which require a degree of human intelligence, typically sorting images or analysing language. In this study, untrained people were paid the equivalent $0.02 for every online comment they attempted to categorise as abusive or non-abusive. Compared with Yahoo's own trained staff, the Mechanical Turk workers were much worse at detecting abuse, suggesting that well-trained staff are a vital part of abuse detection.
+
+The algorithm hasn't been tested outside of Yahoo's existing dataset but the company is confident that its algorithm is a "major step forward" in the field of natural language processing. The annotated database of abuse will soon be released online on Yahoo Webscope.
+
+http://www.wired.co.uk/article/yahoo-online-abuse-algorithm

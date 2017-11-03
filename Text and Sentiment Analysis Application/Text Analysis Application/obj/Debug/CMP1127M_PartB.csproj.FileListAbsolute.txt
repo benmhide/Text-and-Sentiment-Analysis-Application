@@ -1,0 +1,39 @@
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+c:\users\benmh\documents\visual studio 2015\Projects\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+C:\Users\Computing\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Desktop\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M Programming and Data Structures - Assessment 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.pdb
+C:\Users\benmh\Documents\Work\Programming and Data Structures\CMP1127M ASSESSMENT 1\Task B\CMP1127M_PartB\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.csprojResolveAssemblyReference.cache
+C:\Users\benmh\Desktop\Careers\CMP1127M ASSESSMENT 1\Task B\Text and Sentiment Analysis Application\CMP1127M_PartB\bin\Debug\CMP1127M_PartB.exe.config
+C:\Users\benmh\Desktop\Careers\CMP1127M ASSESSMENT 1\Task B\Text and Sentiment Analysis Application\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.exe
+C:\Users\benmh\Desktop\Careers\CMP1127M ASSESSMENT 1\Task B\Text and Sentiment Analysis Application\CMP1127M_PartB\obj\Debug\CMP1127M_PartB.pdb
